@@ -1,0 +1,27 @@
+{
+  "name": "assingment-three",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/server.js",
+  "scripts": {
+    "start:dev": "nodemon ./src/server.js",
+    "start": "node ./src/server.js",
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rolave/CSD_4503_Assignment_3.git"
+  },
+  "author": "Rodrigo Olave Carrasco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rolave/CSD_4503_Assignment_3/issues"
+  },
+  "homepage": "https://github.com/Rolave/CSD_4503_Assignment_3#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
